@@ -1,4 +1,4 @@
-# all_paths
+# allPaths.cpp
 
 In this repository we hold a code that calculates the length of all possible paths leaving a node to every other node in the network. This process is done via a BFS, and then printed on screen. There is a small tutorial commented inside the code on how to run it.
 
